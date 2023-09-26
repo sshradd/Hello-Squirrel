@@ -50,7 +50,7 @@ I learned about using the different XML files to make changes to the application
 
 ## License
 
-Copyright Shraddha Subash
+Copyright 2023 Shraddha Subash
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
